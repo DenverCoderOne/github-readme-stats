@@ -61,13 +61,13 @@
 
 # Features
 
+- [Features](#features)
 - [GitHub Stats Card](#github-stats-card)
 - [GitHub Extra Pins](#github-extra-pins)
 - [Top Languages Card](#top-languages-card)
 - [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
+  - [Deploy on your own Vercel instance](#deploy-on-your-own-vercel-instance)
+  - [:sparkling_heart: Support the project](#sparkling_heart-support-the-project)
 
 # GitHub Stats Card
 
@@ -226,7 +226,7 @@ Use [show_owner](#customization) variable to include the repo's owner username
 
 # Top Languages Card
 
-The top languages card show a GitHub user's most frequently used top language.
+The top languages card shows a GitHub user's top languages which have used the most.
 
 _NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats._
 
